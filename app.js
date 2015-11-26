@@ -88,11 +88,11 @@ app.directive('productGallery', function() {
       ],
       reviews: [{
         stars: 5,
-        body: "I love this gem!",
+        body: "I love this shoes!",
         author: "joe@example.org"
       }, {
         stars: 1,
-        body: "This gem sucks.",
+        body: "This shoes sucks.",
         author: "tim@example.org"
       }]
     }, {
@@ -110,7 +110,7 @@ app.directive('productGallery', function() {
       ],
       reviews: [{
         stars: 3,
-        body: "I think this gem was just OK, could honestly use more shine, IMO.",
+        body: "I think this shoes was just OK, could honestly use more shine, IMO.",
         author: "JimmyDean@example.org"
       }, {
         stars: 4,
@@ -132,7 +132,7 @@ app.directive('productGallery', function() {
         ],
         reviews: [{
           stars: 1,
-          body: "This gem is WAY too expensive for its rarity value.",
+          body: "This shoes is WAY too expensive for its rarity value.",
           author: "turtleguyy@example.org"
         }, {
           stars: 1,
